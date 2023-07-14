@@ -4,6 +4,7 @@ Through the application of Ordinary Least Squares (OLS) regression and the insig
 
 This repo contains:
 - *main.R*, the R script where all the magic happens;
+- *main.ipynb*, the python notebook where we carried out the data manipulation;
 - *report.pdf*, the submitted presentation which summarizes what my group and I have done and the conclusions we drawn.
 ---
 **Skills**: OLS, data mining, data analysis;  
