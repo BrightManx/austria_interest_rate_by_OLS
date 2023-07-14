@@ -6,5 +6,5 @@ This repo contains:
 - *main.R*, the R script where all the magic happens;
 - *report.pdf*, the submitted presentation which summarizes what my group and I have done and the conclusions we drawn.
 ---
-**Skills**: OLS, data mining, data analysis;
+**Skills**: OLS, data mining, data analysis;  
 **Language**: R
