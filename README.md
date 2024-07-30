@@ -1,4 +1,4 @@
-# Austria's Interest Rate by OLS  
+# 📈 Austria's Interest Rate by OLS  
 This is an assignment undertaken as a group work for the econometrics course of my BSc. 
 
 The goal is to estimate Austria's interest rate through the application of Ordinary Least Squares (OLS) regression and the insights provided by Taylor's rule.
